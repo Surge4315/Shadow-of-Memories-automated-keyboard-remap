@@ -1,4 +1,4 @@
-# Shadow-of-Memories/Destiny-automated-keyboard-remap
+# Shadow of Memories/Destiny automated keyboard remap
 Basic batch file that boots the game and an ahk script that remaps the controls and turns off the ahk script when exiting the game. The game itself doesn't support remapping controls that's why this exists
 
 # Autohotkey v2.0 is necessary for this to work
